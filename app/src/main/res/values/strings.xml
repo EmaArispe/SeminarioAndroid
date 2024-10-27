@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PelisPedia</string>
+    <string name="Peliculas">Listado de Peliculas</string>
+    <string name="Button">Cargar Peliculas</string>
+    <string name="blueActivity">Volver</string>
+    <string name="error"> Ocurrió un error, intente nuevamente mas tarde</string>
+</resources>
